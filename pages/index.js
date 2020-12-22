@@ -1,13 +1,14 @@
+import { Nave } from "./components/Nave";
+
 function Home() {
     return (
+
         <body>
         <div>
-            <h1 style={{color:'red'}}>Olá</h1>  
-            <nav>
-                <a href='#'>Home</a>
-                <a href='Sobre'>Sobre</a>
-                <a href='Contato'>Contato</a>
-            </nav>
+            
+            <Nave />
+            <h1>StandBy - Next.js-Blog</h1>
+            <h4>By - Marcos StudDev</h4>
         </div>
         </body>
     )
