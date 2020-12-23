@@ -7,7 +7,7 @@ function Home() {
         <div>
             
             <Nave />
-            <h1>StandBy - Next.js-Blog</h1>
+            <h1>StandBy - Next.js-My-Blog</h1>
             <h4>By - Marcos StudDev My Girl</h4>
         </div>
         </body>
